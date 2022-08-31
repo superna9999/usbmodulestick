@@ -1,0 +1,7 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"P1,P2";"USB_A";2;"USB_A";;;
+2;"P3";"HE10_34D";1;"HE10-32";;;
+3;"R1,R2";"R1";2;"R";;;
+4;"U1";"SC-70-5";1;"TLV70033DCK";;;
+5;"U2";"QFN-36-1EP_5x6mm_Pitch0.5mm";1;"USB2514";;;
+6;"U3";"LQFP-32_7x7mm_Pitch0.8mm";1;"STM32L072KZTx";;;

@@ -1,0 +1,9 @@
+### Module positions - created on Fri 25 Mar 2016 03:45:13 PM CET ###
+### Printed by Pcbnew version kicad 4.0.2-4+6225~38~ubuntu14.04.1-stable
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                           PosX       PosY       Rot  Side
+U1        TLV70033DCK    SC-70-5                       163.8300  -114.3000    0.0000  top
+U2        USB2514        QFN-36-1EP_5x6mm_Pitch0.5mm   163.7411  -129.1336    0.0000  top
+U3        STM32L072KZTx  LQFP-32_7x7mm_Pitch0.8mm      179.0700  -120.6500    0.0000  top
+## End

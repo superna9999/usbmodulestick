@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name usbmodulestick-rescue)(type Legacy)(uri ${KIPRJMOD}/usbmodulestick-rescue.lib)(options "")(descr ""))
+  (lib (name stm32)(type Legacy)(uri /home/narmstrong/Downloads/stm32.lib)(options "")(descr ""))
+  (lib (name microchip)(type Legacy)(uri /home/narmstrong/Downloads/microchip.lib)(options "")(descr ""))
+  (lib (name usb2514)(type Legacy)(uri /home/narmstrong/Downloads/usb2514.lib)(options "")(descr ""))
+)
